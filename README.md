@@ -3,4 +3,5 @@ An interactive Excel Executive Dashboard that transforms raw educational data in
 
 Dataset Used
 -<a href="https://www.kaggle.com/datasets/kundanbedmutha/student-performance-dataset">Student Performance Dataset</a>
+<img width="1037" height="678" alt="Dashboard" src="https://github.com/user-attachments/assets/381671c2-f1bc-4256-8349-43cfa95601bd" />
 
